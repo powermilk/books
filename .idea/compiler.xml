@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="homework.main" target="1.8" />
+      <module name="homework.test" target="1.8" />
+      <module name="pl.loczek.homework.books.main" target="1.8" />
+      <module name="pl.loczek.homework.books.test" target="1.8" />
+      <module name="pl.loczek2.homework.books.main" target="1.8" />
+      <module name="pl.loczek2.homework.books.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
